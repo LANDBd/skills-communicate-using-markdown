@@ -6,6 +6,10 @@ a=[3,2,1]
 a.sort()
 print(a)
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 
 add # and a space
